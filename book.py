@@ -8,3 +8,5 @@ def add_book():
 def view_books():
     for book in books:
         print(book)
+def search_book():
+    pass
